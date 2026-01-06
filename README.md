@@ -2,6 +2,7 @@
 This Hospital Analytics Dashboard is an end-to-end Power BI project designed to provide 360-degree visibility into hospital operations, patient management, doctor performance, resource utilization, and financial performance. The project demonstrates strong skills in data modeling, DAX, Power Query transformations, KPI design, &amp; storytelling data.
 
 # Hospital Analytics Dashboard – Power BI Project
+https://github.com/kumar98rishav-oss/Hospital-Data-Analysis-Management_Dashboard-Power-BI/blob/main/Overview%20Page.png?raw=true
 
 ## 1. Project Overview
 
