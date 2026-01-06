@@ -240,32 +240,6 @@ The primary goal of this project is to help **hospital management and decision-m
 * Doctor performance varies significantly by specialization.
 * Medicine inventory management can be optimized.
 * Bed occupancy trends help plan capacity expansion.
-
----
-
-## 7. Value to Stakeholders
-
-* **Management:** Strategic planning & profitability analysis
-* **Doctors:** Performance and incentive tracking
-* **Operations Team:** Bed, room, and staff optimization
-* **Finance Team:** Revenue leakage and cost control
-
----
-
-## 8. Resume / Portfolio Description (Short Version)
-
-> Designed an interactive Hospital Analytics Dashboard in Power BI covering patient management, doctor performance, hospital operations, and financial insights. Implemented advanced DAX KPIs, dynamic slicers, and business-focused visuals to support data-driven healthcare decision-making.
-
----
-
-## 9. Possible Future Enhancements
-
-* Predictive patient admission forecasting
-* Readmission risk analysis
-* Real-time data integration
-* Advanced financial profitability modeling
-* Machine learning-based patient outcome prediction
-
 ---
 
 **This project reflects real-world healthcare analytics use cases and demonstrates strong analytical and visualization capabilities suitable for Data Analyst and Power BI roles.**
